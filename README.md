@@ -1,2 +1,2 @@
-# web_scrapping_python
-web_scrappig_python
+# web_scrapping
+Web Scrapping
